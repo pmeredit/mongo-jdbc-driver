@@ -11,3 +11,4 @@ rootProject.name = 'mongodb-jdbc'
 
 
 include 'demo'
+include 'debug'

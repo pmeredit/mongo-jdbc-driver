@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClassName = 'com.mongodb.jdbc.debug.Main'
+}
+
+dependencies {
+    compile rootProject
+}
